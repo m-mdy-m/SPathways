@@ -1,193 +1,389 @@
-### [**Foundational Concepts**](./Foundational/)
+### **Foundational Concepts**
 
 #### 1. **Understanding Programming Basics**
 
 - **Syntax and Semantics**
+  - **Syntax**
+    - **Grammar**
+    - **Syntax Trees**
+  - **Semantics**
+    - **Static Semantics**
+    - **Dynamic Semantics**
+    - **Relationship to Syntax**
+
 - **Variables and Data Types**
+  - **Variables**
+    - **Scope**
+    - **Lifetime**
+  - **Data Types**
+    - **Primitive Data Types**
+    - **Composite Data Types**
+    - **Type Systems**
+    - **Casting and Type Conversion**
+    - **Related Concepts**
 - **Expressions and Operators**
+  - **Expressions**
+    - **Arithmetic Expressions**
+    - **Boolean Expressions**
+    - **Relational and Logical Operators**
+  - **Operators**
+    - **Unary Operators**
+    - **Binary Operators**
+    - **Ternary Operators**
+    - **Operator Precedence and Associativity**
+
 - **Input and Output**
+  - **Input**
+    - **Standard Input**
+    - **Files and Streams**
+  - **Output**
+    - **Standard Output**
+    - **Files and Streams**
+    - **Buffering and Flushing**
 
 #### 2. **Basic Control Structures**
 
 - **Sequence (Execution Order)**
+  - **Sequential Execution**
+  - **Control Flow**
+
 - **Selection (Conditionals: if-else, switch)**
+  - **If-Else Statements**
+    - **Nested Conditionals**
+    - **Else-If Ladder**
+    - **Related Concepts**
+  - **Switch Statements**
+    - **Case Blocks**
+    - **Break and Default Statements**
+    - **Comparison with If-Else**
+
 - **Iteration (Loops: for, while, do-while)**
+  - **For Loops**
+    - **Initialization, Condition, and Iteration**
+    - **Nested Loops**
+  - **While Loops**
+    - **Infinite Loops**
+    - **Related Concepts**
+  - **Do-While Loops**
+    - **Comparison with While**
 
 #### 3. **Introduction to Algorithms**
 
 - **Pseudocode**
-- **Flowcharts**
-- **Basic Searching (Linear, Binary)**
-- **Basic Sorting (Bubble, Insertion, Selection)**
+  - **Purpose**
+  - **Structure**
+  - **Related Concepts**
 
+- **Flowcharts**
+  - **Purpose**
+  - **Symbols and Conventions**
+  - **Use Cases**
+  - **Related Concepts**
+
+- **Basic Searching (Linear, Binary)**
+  - **Linear Search**
+    - **Time Complexity**
+  - **Binary Search**
+    - **Time Complexity**
+- **Basic Sorting (Bubble, Insertion, Selection)**
+  - **Bubble Sort**
+    - **Time Complexity**
+  - **Insertion Sort**
+    - **Time Complexity**
+  - **Selection Sort**
+    - **Time Complexity**
 ---
 
 ### **Imperative Paradigm**
 
 - **Structured Programming**
-  - Subroutines and Functions
-  - Scope and Lifetime of Variables
-  - Pass by Value vs Pass by Reference
+  - **Control Flow**
+  - **Subroutines and Functions**
+  - **Procedural Abstraction**
+  - **Variable Scope and Lifetime**:
+    - **Local vs. Global Variables**
+    - **Block Scope**
+  - **Pass by Value vs Pass by Reference**:
+    - **Value Semantics**
+    - **Reference Semantics**
+
 - **Procedural Programming**
-  - Modularity
-  - Procedure Calls
-  - State Management
+  - **Modularity**
+  - **Procedure Calls**
+  - **State Management**: 
+    - **Global State**
+    - **Local State**
 
 ---
 
 ### **Object-Oriented Paradigm**
 
 - **Introduction to Objects and Classes**
+  - **Class Definitions**
+  - **Instances (Objects)**
+  - **Methods and Properties**
+
 - **Encapsulation**
+  - **Access Modifiers**
+  - **Data Hiding**
+
 - **Abstraction**
+  - **Abstract Classes and Interfaces**
+  - **Polymorphism**
+
 - **Inheritance**
+  - **Single vs. Multiple Inheritance**
+  - **Superclass and Subclass Relationships**
+
 - **Polymorphism**
+  - **Method Overloading**
+  - **Method Overriding**
+
 - **Object Composition**
+  - **Has-A Relationships**
+  - **Aggregation vs. Composition**
+
 - **SOLID Principles**
-  - Single Responsibility Principle
-  - Open/Closed Principle
-  - Liskov Substitution Principle
-  - Interface Segregation Principle
-  - Dependency Inversion Principle
+  - **Single Responsibility Principle**
+  - **Open/Closed Principle**
+  - **Liskov Substitution Principle**
+  - **Interface Segregation Principle**
+  - **Dependency Inversion Principle**
+
 - **Design Patterns**
-  - Creational Patterns (e.g., Singleton, Factory)
-  - Structural Patterns (e.g., Adapter, Composite)
-  - Behavioral Patterns (e.g., Observer, Strategy)
+  - **Creational Patterns**
+  - **Structural Patterns**
+  - **Behavioral Patterns**
 
 ---
 
 ### **Declarative Paradigm**
 
 - **Introduction to Declarative Programming**
-  - Difference from Imperative Programming
+  - **Difference from Imperative Programming**
+  - **Declarative Syntax**
+
 - **Functional Programming**
-  - Pure Functions
-  - Immutability
-  - Higher-Order Functions
-  - First-Class Functions
-  - Recursion
-  - Function Composition
-  - Lazy Evaluation
-  - Referential Transparency
+  - **Pure Functions**
+  - **Immutability**
+  - **Higher-Order Functions**
+  - **First-Class Functions**
+  - **Recursion**
+  - **Function Composition**
+  - **Lazy Evaluation**
+  - **Referential Transparency**
+
 - **Logic Programming**
-  - Facts, Rules, and Queries
-  - Unification
-  - Backtracking
+  - **Facts, Rules, and Queries**
+  - **Unification**
+  - **Backtracking**
+
 - **Constraint Programming**
-  - Constraints as Relations
-  - Domain Reduction
-  - Propagation
+  - **Constraints as Relations**
+  - **Domain Reduction**
+  - **Propagation**
+
 - **Reactive Programming**
-  - Observables
-  - Streams
-  - Data Flow
+  - **Observables**
+  - **Streams**
+  - **Data Flow**
 
 ---
 
 ### **Metaprogramming**
 
 - **Reflection**
+  - **Introspection**
+  - **Dynamic Type Checking**
+  - **Runtime Modification**
 - **Code Generation**
+  - **Template Metaprogramming**
+  - **Source Code Generation**
+  - **Code Synthesis**
 - **Macros**
+  - **Compile-Time Code Transformation**
+  - **Macro Expansion**
 - **Annotations**
+  - **Metadata Annotations**
+  - **Attribute-Based Programming**
 - **Aspect-Oriented Programming (AOP)**
+  - **Cross-Cutting Concerns**
+  - **Aspect Weaving**
 - **Dynamic Dispatch**
+  - **Polymorphism**
+  - **Virtual Methods**
 
 ---
 
 ### **Concurrent and Parallel Programming**
 
 - **Introduction to Concurrency and Parallelism**
-  - Difference Between Concurrent and Parallel
+  - **Concurrency**
+  - **Parallelism**
 - **Multithreading**
-  - Threads and Thread Pools
-  - Locks and Synchronization
+  - **Thread Safety**
+  - **Race Conditions**
+  - **Locks and Synchronization**
 - **Asynchronous Programming**
-  - Async/Await
-  - Promises/Futures
+  - **Non-Blocking Operations**
+  - **Event-Driven Architecture**
+  - **Callbacks and Continuations**
 - **Parallel Programming**
-  - Data Parallelism
-  - Task Parallelism
+  - **Data Parallelism**
+  - **Task Parallelism**
 - **Message Passing**
-  - Actors Model
-  - Channels
+  - **Actors Model**
+  - **Channels**
 - **Lock-Free and Wait-Free Algorithms**
+  - **Lock-Free Algorithms**
+  - **Wait-Free Algorithms**
 - **Concurrency Control**
-  - Deadlock, Livelock, and Starvation
-  - Semaphores
-  - Monitors
+  - **Deadlock**
+  - **Livelock**
+  - **Starvation**
+  - **Semaphores**
+  - **Monitors**
 
 ---
 
 ### **Event-Driven Programming**
 
 - **Event Loops**
+  - **Event Queue**
+  - **Event Dispatching**
 - **Callbacks**
+  - **Function Pointers**
+  - **Asynchronous Callbacks**
 - **Event Emitters/Listeners**
+  - **Event Emitters**
+  - **Event Listeners**
 - **Reactive Extensions (Rx)**
+  - **Observables**
+  - **Observers**
 - **Publish/Subscribe (Pub/Sub) Pattern**
+  - **Publishers**
+  - **Subscribers**
+  - **Message Brokers**
 
 ---
 
 ### **Data-Oriented Paradigm**
 
 - **Data-Driven Programming**
+  - **Data Abstraction**
+  - **Configuration over Code**
 - **Data-Oriented Design (DOD)**
+  - **Memory Layout Optimization**
+  - **Processing Data in Batches**
 - **Entity-Component-System (ECS) Architecture**
+  - **Entities**
+  - **Components**
+  - **Systems**
 
 ---
 
 ### **Aspect-Oriented Programming (AOP)**
 
 - **Cross-Cutting Concerns**
+  - **Separation of Concerns**
+  - **Modularization of Cross-Cutting Concerns**
 - **Aspects**
+  - **Aspect Definitions**
+  - **Aspect-Oriented Frameworks**
 - **Join Points and Pointcuts**
+  - **Join Points**
+  - **Pointcuts**
 - **Advice Types (Before, After, Around)**
+  - **Before Advice**
+  - **After Advice**
+  - **Around Advice**
 
 ---
 
 ### **Domain-Driven Design (DDD)**
 
 - **Entities and Value Objects**
+  - **Entities**
+  - **Value Objects**
 - **Aggregates and Repositories**
+  - **Aggregates**
+  - **Repositories**
 - **Services**
+  - **Domain Services**
+  - **Application Services**
 - **Domain Events**
+  - **Event Sourcing**
+  - **Event Handlers**
 - **Bounded Contexts**
+  - **Context Maps**
+  - **Contextual Modeling**
 - **Ubiquitous Language**
+  - **Consistent Terminology**
+  - **Language Alignment**
 
 ---
-
 ### **Component-Based Software Engineering**
 
 - **Components and Interfaces**
+  - **Interface Design**
+  - **Component Reusability**
+  - **Interface Segregation Principle**
 - **Composition**
+  - **Composite Design Pattern**
+  - **Component Composition**
 - **Dependency Injection**
+  - **Inversion of Control (IoC)**:
+  - **Service Locators**
 - **Service-Oriented Architecture (SOA)**
+  - **Service Abstraction**
+  - **Enterprise Service Bus (ESB)**
 - **Microservices**
+  - **Decentralized Data Management**
+  - **API Gateway**
 
 ---
 
 ### **Model-Driven Development**
 
 - **Model-Driven Architecture (MDA)**
+  - **Platform-Independent Models (PIM)**
+  - **Platform-Specific Models (PSM)**
 - **Domain-Specific Languages (DSLs)**
+  - **Language Abstraction**
+  - **DSL Interpretation**
 - **Model Transformation**
+  - **Transformational Languages**
+  - **Bidirectional Transformations**
 
 ---
 
 ### **Agent-Oriented Programming**
 
 - **Agents**
+  - **Autonomous Agents**
+  - **Multi-Agent Collaboration**
 - **Belief-Desire-Intention (BDI) Model**
+  - **Beliefs**
+  - **Desires**
+  - **Intentions**
 - **Multi-Agent Systems**
+  - **Coordination Mechanisms**
+  - **Agent Communication Languages (ACLs)**
 
 ---
 
 ### **Genetic Programming**
 
 - **Evolutionary Algorithms**
+  - **Population-Based Search**
+  - **Genetic Operators**
 - **Mutation, Crossover, Selection**
+  - **Mutation**
+  - **Crossover**
+  - **Selection**
 - **Fitness Functions**
+  - **Objective Evaluation**
+  - **Fitness Proportional Selection**
 
 ---
 
