@@ -1,6 +1,6 @@
 ### **Foundational Concepts**
 
-#### 1. **Understanding Programming Basics**
+#### [1. **Understanding Programming Basics**](./Foundational/1.Programming%20Basics/)
 
 - **Syntax and Semantics**
   - **Syntax**
@@ -41,7 +41,7 @@
     - **Files and Streams**
     - **Buffering and Flushing**
 
-#### 2. **Basic Control Structures**
+#### [2. **Basic Control Structures**](./Foundational/2..Basic%20Control%20Structures/)
 
 - **Sequence (Execution Order)**
   - **Sequential Execution**
