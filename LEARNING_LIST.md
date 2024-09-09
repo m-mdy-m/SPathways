@@ -2,45 +2,6 @@
 
 #### [1. **Understanding Programming Basics**](./Foundational/1.Programming%20Basics/)
 
-- **Syntax and Semantics**
-  - **Syntax**
-    - **Grammar**
-    - **Syntax Trees**
-  - **Semantics**
-    - **Static Semantics**
-    - **Dynamic Semantics**
-    - **Relationship to Syntax**
-
-- **Variables and Data Types**
-  - **Variables**
-    - **Scope**
-    - **Lifetime**
-  - **Data Types**
-    - **Primitive Data Types**
-    - **Composite Data Types**
-    - **Type Systems**
-    - **Casting and Type Conversion**
-    - **Related Concepts**
-- **Expressions and Operators**
-  - **Expressions**
-    - **Arithmetic Expressions**
-    - **Boolean Expressions**
-    - **Relational and Logical Operators**
-  - **Operators**
-    - **Unary Operators**
-    - **Binary Operators**
-    - **Ternary Operators**
-    - **Operator Precedence and Associativity**
-
-- **Input and Output**
-  - **Input**
-    - **Standard Input**
-    - **Files and Streams**
-  - **Output**
-    - **Standard Output**
-    - **Files and Streams**
-    - **Buffering and Flushing**
-
 #### [2. **Basic Control Structures**](./Foundational/2..Basic%20Control%20Structures/)
 
 - **Sequence (Execution Order)**
