@@ -1,6 +1,6 @@
 ### Here I am sharing the good and reliable sources that I have read about each of them in the form of links.
 
-1. **Syntax and Semantics**
+1. [**Syntax and Semantics**](https://www.usna.edu/Users/cs/wcbrown/courses/F19SI413/lec/l07/lec.html)
 
 - **Syntax**
   - **Grammar**
