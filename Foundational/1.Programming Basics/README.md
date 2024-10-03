@@ -14,8 +14,11 @@
 
 ---
 
-1-1. **Variables and Data Types**
-
+1-1. [**Variables and Data Types**](file:///home/mahdi/Downloads/Telegram%20Desktop/p_java1_TH_en.pdf)
+> [READ](https://tdck.weebly.com/uploads/7/7/0/5/77052163/01_-_von_neumann_architecture.pdf)
+> [READ_1](https://littleflowercollege.edu.in/upload/e_contents/files/bee9c73e8f5c80f4894e761a82210181.pdf)
+> [READ_2](https://www.uobabylon.edu.iq/eprints/publication_4_19470_1575.pdf)
+> [READ_3](https://tdck.weebly.com/uploads/7/7/0/5/77052163/01_-_von_neumann_architecture.pdf)
 - **Variables**
   - **Scope**
   - **Lifetime**
