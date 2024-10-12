@@ -711,7 +711,7 @@ Understanding how and when binding happens in a programming language is critical
 
 ### Type Inference
 
-**Type inference** refers to the ability of a programming language to automatically deduce the type of a variable based on the context in which it is used, without needing explicit type declarations from the programmer. Unlike languages that require you to explicitly declare types (e.g., C or Java), some modern languages like ML, Miranda, and Haskell can infer types from usage.
+**Type inference** refers to the ability of a programming language to automatically deduce the type of a variable based on the context in which it is used, without needing explicit type declarations from the programmer. Unlike languages that require you to explicitly declare types (e.g., C or Java), some languages like ML, Miranda, and Haskell can infer types from usage.
 
 #### How It Works:
 
