@@ -15,14 +15,8 @@
 1-1. [**Variables and Data Types**](https://doc.et.ethz.ch/latest/p_java1_TH_en.pdf)
 
 - **Variables**
-  - **Scope**
-  - **Lifetime**
+
 - **Data Types**
-  - **Primitive Data Types**
-  - **Composite Data Types**
-  - **Type Systems**
-  - **Casting and Type Conversion**
-  - **Related Concepts**
 
 1-2. **Expressions and Operators**
 
