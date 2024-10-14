@@ -14,9 +14,9 @@
 
 1-1. [**Variables and Data Types**](https://doc.et.ethz.ch/latest/p_java1_TH_en.pdf)
 
-- **Variables**
+- [**Variables**](./Variables.md)
 
-- **Data Types**
+- [**Data Types**](./Data-Types.md)
 
 1-2. **Expressions and Operators**
 

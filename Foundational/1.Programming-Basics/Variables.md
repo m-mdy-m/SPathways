@@ -196,11 +196,11 @@ end.
 
    **Memory State**:
 
-   ``````````````
+   ```
    |---------------|              |-------------|
-   |       X       | ------------ |`````````````| <- Undefined Value
+   |       X       | ------------ |=============| <- Undefined Value
    |---------------|              |-------------|
-   ``````````````
+   ```
 
 3. **Assigning Value to x**:
 
@@ -208,11 +208,11 @@ end.
 
    **Memory State**:
 
-   ``````````````
+   ```
    |---------------|              |-------------|   |-------------|
-   |       X       | ------------ |`````````````|-> |      1      |
+   |       X       | ------------ |=============|-> |      1      |
    |---------------|              |-------------|   |-------------|
-   ``````````````
+   ```
 
 4. **Creating an Alias with y**:
 
@@ -220,14 +220,14 @@ end.
 
    **Memory State**:
 
-   ``````````````
+   ```
    |---------------|              |-------------|   |-------------|
-   |       X       | ------------ |`````````````|-> |      1      |
+   |       X       | ------------ |=============|-> |      1      |
    |---------------|              |-------------|   |-------------|
    |               |              |             |          |
-   |       Y       | ------------ |`````````````|--------- |
+   |       Y       | ------------ |=============|--------- |
    |---------------|              |-------------|          |
-   ``````````````
+   ```
 
 5. **Modifying the Value via Alias**:
 
@@ -235,14 +235,14 @@ end.
 
    **Final Memory State**:
 
-   ``````````````
+   ```
    |---------------|              |-------------|   |-------------|
-   |       X       | ------------ |`````````````|-> |      2      |
+   |       X       | ------------ |=============|-> |      2      |
    |---------------|              |-------------|   |-------------|
    |               |              |             |          |
-   |       Y       | ------------ |`````````````|--------- |
+   |       Y       | ------------ |=============|--------- |
    |---------------|              |-------------|          |
-   ``````````````
+   ```
 
 6. **Output**:
    - `writeln(x^);` prints the value at the location pointed to by `x`, which is now `2`, demonstrating that both `x` and `y` are aliases.
@@ -474,16 +474,16 @@ Here, `x` and `y` refer to two different memory locations, each holding the valu
   - `x` points to a memory location holding `20`
   - `y` is allocated a different memory location but hasn’t been assigned a value yet
 
-``````````````
+```
 |---------------|              |-------------|   |-------------|
 |       X       | ------------ |     20      |-> |      20      |
 |---------------|              |-------------|   |-------------|
                                                     |
                                                     |
 |---------------|              |-------------|      |
-|       Y       | ------------ |`````````````|<-----|
+|       Y       | ------------ |=============|<-----|
 |---------------|              |-------------|
-``````````````
+```
 
 - **After Assignment (`y^ := x^`):**
   - `y` now holds a copy of the value in a different memory location.
@@ -1471,8 +1471,6 @@ The **referencing environment** of a statement is the set of variables visible a
 - **Dynamic scoping**: Flexible, but can lead to confusion due to its dependence on the runtime call sequence, making it less predictable and harder to maintain.
 
 ---
-
-========================================
 
 ### Understanding Scoping in Programming Languages
 
