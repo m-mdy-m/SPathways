@@ -1,0 +1,49 @@
+V "GNAT Lib v14"
+M P W=b
+P ZX
+
+RN
+RV NO_IO
+
+U hello%b		adb.adb			61a67438 NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20240910130733 76789da1 ada%s
+D a-except.ads		20240910130733 e7970cd9 ada.exceptions%s
+D a-ioexce.ads		20240910130733 40018c65 ada.io_exceptions%s
+D a-stream.ads		20240910130733 119b8fb3 ada.streams%s
+D a-string.ads		20240910130733 90ac6797 ada.strings%s
+D a-sttebu.ads		20240910130733 f1ad67a2 ada.strings.text_buffers%s
+D a-stuten.ads		20240910130733 c6ced0ae ada.strings.utf_encoding%s
+D a-tags.ads		20240910130733 9eaa38c6 ada.tags%s
+D a-textio.ads		20240910130733 34ef47de ada.text_io%s
+D a-unccon.ads		20240910130733 0e9b276f ada.unchecked_conversion%s
+D adb.adb		20241014054435 554933e6 hello%b
+D interfac.ads		20240910130733 9111f9c1 interfaces%s
+D i-cstrea.ads		20240910130733 ffd01b9d interfaces.c_streams%s
+D system.ads		20240910130733 14286b0f system%s
+D s-crtl.ads		20240910130733 beb39b9e system.crtl%s
+D s-exctab.ads		20240910130733 91bef6ef system.exception_table%s
+D s-ficobl.ads		20240910130733 dc5161d4 system.file_control_block%s
+D s-parame.ads		20240910130733 3597fc11 system.parameters%s
+D s-putima.ads		20240910130733 17291fe4 system.put_images%s
+D s-secsta.ads		20240910130733 578279f5 system.secondary_stack%s
+D s-soflin.ads		20240910130733 df77073e system.soft_links%s
+D s-stache.ads		20240910130733 0b81c1fe system.stack_checking%s
+D s-stalib.ads		20240910130733 1c9580f6 system.standard_library%s
+D s-stoele.ads		20240910130733 ccded4e8 system.storage_elements%s
+D s-traent.ads		20240910130733 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20240910130733 fa2a7f59 system.unsigned_types%s
+D s-wchcon.ads		20240910130733 d9032363 system.wch_con%s
+G a e
+G c Z b b [hello standard 3 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 11|1r6 5r4
+X 9 a-textio.ads
+58K13*Text_IO 785e16 11|1w10 5r8
+565U14*Put_Line 11|5s16
+X 11 adb.adb
+3U11*Hello 3b11 6l5 6t10
+
