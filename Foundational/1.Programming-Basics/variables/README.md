@@ -131,6 +131,7 @@ To visualize the structure of a variable, consider the following schematic repre
 ```
 
 #### Detailed Flowchart Representation
+
 ```mermaid
 flowchart TD
     A[Start] --> B[Declare Variable]
