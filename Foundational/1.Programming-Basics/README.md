@@ -13,13 +13,8 @@
 - [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Data-Type)
 
 1-2. **[Expressions and Operators](./Expressions-Operators/)**
-- [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Expressions-Operators)
-1-3. **Input and Output**
 
-- **Input**
-  - **Standard Input**
-  - **Files and Streams**
-- **Output**
-  - **Standard Output**
-  - **Files and Streams**
-  - **Buffering and Flushing**
+- [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Expressions-Operators)
+
+1-3. **[Input and Output(I/O)](./I-O/)**
+- [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/CS(computer%20science)/I-O)
