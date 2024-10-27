@@ -13,7 +13,7 @@
 - [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Data-Type)
 
 1-2. **[Expressions and Operators](./Expressions-Operators/)**
-
+- [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Expressions-Operators)
 1-3. **Input and Output**
 
 - **Input**
