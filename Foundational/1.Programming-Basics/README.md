@@ -12,17 +12,7 @@
 - [**Data Types**](./data-types/)
 - [Resources](https://github.com/m-mdy-m/TechShelf/tree/main/Programming/Data-Type)
 
-1-2. **Expressions and Operators**
-
-- **Expressions**
-  - **Arithmetic Expressions**
-  - **Boolean Expressions**
-  - **Relational and Logical Operators**
-- **Operators**
-  - **Unary Operators**
-  - **Binary Operators**
-  - **Ternary Operators**
-  - **Operator Precedence and Associativity**
+1-2. **[Expressions and Operators](./Expressions-Operators/)**
 
 1-3. **Input and Output**
 
