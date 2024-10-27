@@ -1,35 +1,4 @@
-### **Foundational Concepts**
-
-#### [1. **Understanding Programming Basics**](./Foundational/1.Programming%20Basics/)
-
-#### [2. **Basic Control Structures**](./Foundational/2..Basic%20Control%20Structures/)
-
-#### 3. **Introduction to Algorithms**
-
-- **Pseudocode**
-  - **Purpose**
-  - **Structure**
-  - **Related Concepts**
-
-- **Flowcharts**
-  - **Purpose**
-  - **Symbols and Conventions**
-  - **Use Cases**
-  - **Related Concepts**
-
-- **Basic Searching (Linear, Binary)**
-  - **Linear Search**
-    - **Time Complexity**
-  - **Binary Search**
-    - **Time Complexity**
-- **Basic Sorting (Bubble, Insertion, Selection)**
-  - **Bubble Sort**
-    - **Time Complexity**
-  - **Insertion Sort**
-    - **Time Complexity**
-  - **Selection Sort**
-    - **Time Complexity**
----
+### **[Foundational Concepts](./Foundational/)**
 
 ### **Imperative Paradigm**
 
