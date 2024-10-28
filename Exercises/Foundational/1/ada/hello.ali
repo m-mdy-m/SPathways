@@ -1,0 +1,70 @@
+V "GNAT Lib v14"
+M P W=b
+P ZX
+
+RN
+RV NO_ENUMERATION_MAPS
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+
+U hello%b		hello.ada		5b0f2c3d NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_char%s	s-imgcha.adb		s-imgcha.ali
+Z system.img_flt%s	s-imgflt.ads		s-imgflt.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+
+D ada.ads		20240910130733 76789da1 ada%s
+D a-except.ads		20240910130733 e7970cd9 ada.exceptions%s
+D a-ioexce.ads		20240910130733 40018c65 ada.io_exceptions%s
+D a-stream.ads		20240910130733 119b8fb3 ada.streams%s
+D a-string.ads		20240910130733 90ac6797 ada.strings%s
+D a-sttebu.ads		20240910130733 f1ad67a2 ada.strings.text_buffers%s
+D a-stuten.ads		20240910130733 c6ced0ae ada.strings.utf_encoding%s
+D a-tags.ads		20240910130733 9eaa38c6 ada.tags%s
+D a-textio.ads		20240910130733 34ef47de ada.text_io%s
+D a-unccon.ads		20240910130733 0e9b276f ada.unchecked_conversion%s
+D hello.ada		20241028083737 6fe06be3 hello%b
+D interfac.ads		20240910130733 9111f9c1 interfaces%s
+D i-cstrea.ads		20240910130733 ffd01b9d interfaces.c_streams%s
+D system.ads		20240910130733 14286b0f system%s
+D s-conca2.ads		20240910130733 b5fb73f7 system.concat_2%s
+D s-crtl.ads		20240910130733 beb39b9e system.crtl%s
+D s-exctab.ads		20240910130733 91bef6ef system.exception_table%s
+D s-ficobl.ads		20240910130733 dc5161d4 system.file_control_block%s
+D s-imagei.ads		20240910130733 5e131ce0 system.image_i%s
+D s-imager.ads		20240910130733 45c7157d system.image_r%s
+D s-imageu.ads		20240910130733 b0b50650 system.image_u%s
+D s-imgcha.ads		20240910130733 9c3458e7 system.img_char%s
+D s-imgflt.ads		20240910130733 d12816b5 system.img_flt%s
+D s-imgint.ads		20240910130733 67e4edfb system.img_int%s
+D s-imguns.ads		20240910130733 c4e23690 system.img_uns%s
+D s-parame.ads		20240910130733 3597fc11 system.parameters%s
+D s-powflt.ads		20240910130733 a51ab9b8 system.powten_flt%s
+D s-putima.ads		20240910130733 17291fe4 system.put_images%s
+D s-secsta.ads		20240910130733 578279f5 system.secondary_stack%s
+D s-soflin.ads		20240910130733 df77073e system.soft_links%s
+D s-stache.ads		20240910130733 0b81c1fe system.stack_checking%s
+D s-stalib.ads		20240910130733 1c9580f6 system.standard_library%s
+D s-stoele.ads		20240910130733 ccded4e8 system.storage_elements%s
+D s-traent.ads		20240910130733 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20240910130733 fa2a7f59 system.unsigned_types%s
+D s-valspe.ads		20240910130733 b0fcd073 system.val_spec%s
+D s-vaispe.ads		20240910130733 8280550e system.value_i_spec%s
+D s-vauspe.ads		20240910130733 89269ba5 system.value_u_spec%s
+D s-vs_int.ads		20240910130733 06b6b724 system.vs_int%s
+D s-vs_uns.ads		20240910130733 e7f47a27 system.vs_uns%s
+D s-wchcon.ads		20240910130733 d9032363 system.wch_con%s
+G a e
+G c Z b b [hello standard 2 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 11|1r6 1r23
+X 9 a-textio.ads
+58K13*Text_IO 785e16 11|1w10 1r27
+565U14*Put_Line 11|4s4 5s4 6s4 7s4
+X 11 hello.ada
+2U11*Hello 2b11 8l5 8t10
+
