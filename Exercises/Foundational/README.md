@@ -1,6 +1,7 @@
 ### Basic Level: Getting Comfortable with Syntax and Basic Operations
 
 1. **Hello, Variables!**
+
    - **Goal**: Define variables of different data types and print them.
    - **Instructions**: Create a variable for each of the following types (or closest available): integer, float, character, and string. Initialize them with values and print each one.
    - **Example Output**:
@@ -35,23 +36,10 @@
      7 is odd
      ```
 
-4. **Grade Calculator**
-   - **Goal**: Practice with if-else statements and relational operators.
-   - **Instructions**: Write a program to calculate a student's letter grade based on a score input by the user. Use the following ranges:
-     - `90-100`: A
-     - `80-89`: B
-     - `70-79`: C
-     - `60-69`: D
-     - `Below 60`: F
-   - **Example Output**:
-     ```
-     Enter score: 85
-     Grade: B
-     ```
-
 ### Advanced Level: Implementing Loops and Nested Conditions
 
 5. **Fibonacci Series Generator**
+
    - **Goal**: Implement loops.
    - **Instructions**: Write a program that asks for the number of Fibonacci sequence terms to generate, then prints that many terms.
    - **Example Output**:
@@ -75,6 +63,7 @@
 ### Expert Level: Multi-Component Programs and Complex Conditionals
 
 7. **Prime Number Checker**
+
    - **Goal**: Use nested loops and conditionals.
    - **Instructions**: Write a program that checks if a user-inputted number is prime or not.
    - **Example Output**:
@@ -84,6 +73,7 @@
      ```
 
 8. **Rock, Paper, Scissors Game**
+
    - **Goal**: Implement logic and user interaction.
    - **Instructions**: Create a simple Rock, Paper, Scissors game where the user plays against the computer. The computer's choice should be random, and the program should declare a winner.
    - **Example Output**:
@@ -93,25 +83,15 @@
      You win!
      ```
 
-9. **Basic Calculator with Error Handling**
-   - **Goal**: Use conditionals and error handling.
-   - **Instructions**: Enhance the “Simple Calculator” program to handle divide-by-zero errors. If a user tries to divide by zero, output a message instead of attempting the division.
+9. **Temperature Converter (Celsius to Fahrenheit and Vice Versa)**
+   - **Goal**: Use expressions and modularize code.
+   - **Instructions**: Write a program that converts temperatures between Celsius and Fahrenheit based on user input. Let the user select the conversion direction (Celsius to Fahrenheit or Fahrenheit to Celsius).
+   - **Formula**:
+     - Fahrenheit to Celsius: $C = (F - 32) \times \frac{5}{9}$
+     - Celsius to Fahrenheit: $F = (C \times \frac{9}{5}) + 32$
    - **Example Output**:
      ```
-     Enter first number: 10
-     Enter second number: 0
-     Division by zero is not allowed.
+     Enter temperature: 100
+     Convert to (C)elsius or (F)ahrenheit? C
+     100 Fahrenheit is 37.78 Celsius
      ```
-
-10. **Temperature Converter (Celsius to Fahrenheit and Vice Versa)**
-    - **Goal**: Use expressions and modularize code.
-    - **Instructions**: Write a program that converts temperatures between Celsius and Fahrenheit based on user input. Let the user select the conversion direction (Celsius to Fahrenheit or Fahrenheit to Celsius).
-    - **Formula**: 
-      - Fahrenheit to Celsius: $C = (F - 32) \times \frac{5}{9}$
-      - Celsius to Fahrenheit: $F = (C \times \frac{9}{5}) + 32$
-    - **Example Output**:
-      ```
-      Enter temperature: 100
-      Convert to (C)elsius or (F)ahrenheit? C
-      100 Fahrenheit is 37.78 Celsius
-      ```
