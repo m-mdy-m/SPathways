@@ -1,55 +1,44 @@
 ### **[Foundational Concepts](./Foundational/)**
 
-### **Imperative Paradigm**
-
-- **Structured Programming**
-  - **Control Flow**
-  - **Subroutines and Functions**
-  - **Procedural Abstraction**
-  - **Variable Scope and Lifetime**:
-    - **Local vs. Global Variables**
-    - **Block Scope**
-  - **Pass by Value vs Pass by Reference**:
-    - **Value Semantics**
-    - **Reference Semantics**
-
-- **Procedural Programming**
-  - **Modularity**
-  - **Procedure Calls**
-  - **State Management**: 
-    - **Global State**
-    - **Local State**
+### **[Imperative Paradigm](./Imperative-Paradigm/)**
 
 ---
 
 ### **Object-Oriented Paradigm**
 
 - **Introduction to Objects and Classes**
+
   - **Class Definitions**
   - **Instances (Objects)**
   - **Methods and Properties**
 
 - **Encapsulation**
+
   - **Access Modifiers**
   - **Data Hiding**
 
 - **Abstraction**
+
   - **Abstract Classes and Interfaces**
   - **Polymorphism**
 
 - **Inheritance**
+
   - **Single vs. Multiple Inheritance**
   - **Superclass and Subclass Relationships**
 
 - **Polymorphism**
+
   - **Method Overloading**
   - **Method Overriding**
 
 - **Object Composition**
+
   - **Has-A Relationships**
   - **Aggregation vs. Composition**
 
 - **SOLID Principles**
+
   - **Single Responsibility Principle**
   - **Open/Closed Principle**
   - **Liskov Substitution Principle**
@@ -66,10 +55,12 @@
 ### **Declarative Paradigm**
 
 - **Introduction to Declarative Programming**
+
   - **Difference from Imperative Programming**
   - **Declarative Syntax**
 
 - **Functional Programming**
+
   - **Pure Functions**
   - **Immutability**
   - **Higher-Order Functions**
@@ -80,11 +71,13 @@
   - **Referential Transparency**
 
 - **Logic Programming**
+
   - **Facts, Rules, and Queries**
   - **Unification**
   - **Backtracking**
 
 - **Constraint Programming**
+
   - **Constraints as Relations**
   - **Domain Reduction**
   - **Propagation**
@@ -228,6 +221,7 @@
   - **Language Alignment**
 
 ---
+
 ### **Component-Based Software Engineering**
 
 - **Components and Interfaces**
