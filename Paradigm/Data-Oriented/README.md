@@ -1,0 +1,10 @@
+- **Data-Driven Programming**
+  - **Data Abstraction**
+  - **Configuration over Code**
+- **Data-Oriented Design (DOD)**
+  - **Memory Layout Optimization**
+  - **Processing Data in Batches**
+- **Entity-Component-System (ECS) Architecture**
+  - **Entities**
+  - **Components**
+  - **Systems**
