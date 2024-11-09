@@ -1,0 +1,16 @@
+- **Event Loops**
+  - **Event Queue**
+  - **Event Dispatching**
+- **Callbacks**
+  - **Function Pointers**
+  - **Asynchronous Callbacks**
+- **Event Emitters/Listeners**
+  - **Event Emitters**
+  - **Event Listeners**
+- **Reactive Extensions (Rx)**
+  - **Observables**
+  - **Observers**
+- **Publish/Subscribe (Pub/Sub) Pattern**
+  - **Publishers**
+  - **Subscribers**
+  - **Message Brokers**

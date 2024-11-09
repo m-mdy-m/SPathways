@@ -1,0 +1,29 @@
+- **Agents**
+  - **Autonomous Agents**
+  - **Multi-Agent Collaboration**
+- **Belief-Desire-Intention (BDI) Model**
+  - **Beliefs**
+  - **Desires**
+  - **Intentions**
+- **Multi-Agent Systems**
+  - **Coordination Mechanisms**
+  - **Agent Communication Languages (ACLs)**
+- **Cross-Cutting Concerns**
+  - **Separation of Concerns**
+  - **Modularization of Cross-Cutting Concerns**
+- **Aspects**
+  - **Aspect Definitions**
+  - **Aspect-Oriented Frameworks**
+- **Join Points and Pointcuts**
+  - **Join Points**
+  - **Pointcuts**
+- **Advice Types (Before, After, Around)**
+
+  - **Before Advice**
+  - **After Advice**
+  - **Around Advice**
+
+- **Cross-Cutting Concerns**
+- **Aspects**
+- **Join Points and Pointcuts**
+- **Advice Types (Before, After, Around)**

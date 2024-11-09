@@ -1,0 +1,9 @@
+- **Model-Driven Architecture (MDA)**
+  - **Platform-Independent Models (PIM)**
+  - **Platform-Specific Models (PSM)**
+- **Domain-Specific Languages (DSLs)**
+  - **Language Abstraction**
+  - **DSL Interpretation**
+- **Model Transformation**
+  - **Transformational Languages**
+  - **Bidirectional Transformations**

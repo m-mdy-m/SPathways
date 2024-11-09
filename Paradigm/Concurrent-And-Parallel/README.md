@@ -1,0 +1,26 @@
+- **Introduction to Concurrency and Parallelism**
+  - **Concurrency**
+  - **Parallelism**
+- **Multithreading**
+  - **Thread Safety**
+  - **Race Conditions**
+  - **Locks and Synchronization**
+- **Asynchronous Programming**
+  - **Non-Blocking Operations**
+  - **Event-Driven Architecture**
+  - **Callbacks and Continuations**
+- **Parallel Programming**
+  - **Data Parallelism**
+  - **Task Parallelism**
+- **Message Passing**
+  - **Actors Model**
+  - **Channels**
+- **Lock-Free and Wait-Free Algorithms**
+  - **Lock-Free Algorithms**
+  - **Wait-Free Algorithms**
+- **Concurrency Control**
+  - **Deadlock**
+  - **Livelock**
+  - **Starvation**
+  - **Semaphores**
+  - **Monitors**

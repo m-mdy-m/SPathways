@@ -1,0 +1,3 @@
+- **Given-When-Then Syntax**
+- **User Stories**
+- **Executable Specifications**

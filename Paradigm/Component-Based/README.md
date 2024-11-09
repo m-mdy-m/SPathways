@@ -1,0 +1,16 @@
+- **Components and Interfaces**
+  - **Interface Design**
+  - **Component Reusability**
+  - **Interface Segregation Principle**
+- **Composition**
+  - **Composite Design Pattern**
+  - **Component Composition**
+- **Dependency Injection**
+  - **Inversion of Control (IoC)**:
+  - **Service Locators**
+- **Service-Oriented Architecture (SOA)**
+  - **Service Abstraction**
+  - **Enterprise Service Bus (ESB)**
+- **Microservices**
+  - **Decentralized Data Management**
+  - **API Gateway**
