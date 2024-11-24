@@ -20,20 +20,21 @@ To deeply understand Imperative, Structured, and Procedural Programming, here ar
    - Build a console-based calculator that supports basic operations (add, subtract, multiply, divide) with user input.
    - **Challenge:** Extend it to support operations like factorials, trigonometric functions, and error handling for invalid inputs.
 
-2. **Snake Game**
+2. **[Snake Game](https://github.com/medishen/sgt)**
 
    - Build a terminal-based snake game.
    - **Challenge:** Implement levels, save high scores, and make the game more interactive with dynamic screen sizes.
 
 3. **Memory Allocator**
+
    - Implement your version of `malloc` and `free` to understand memory management.
    - **Challenge:** Add error detection, alignment, and performance optimization.
 
 4. **REPL (Read-Eval-Print Loop)**
 
 - **Objective**: Build a simple REPL for a mathematical expression evaluator.
-- **Description**: Implement a REPL where the user can input mathematical expressions (e.g., `3 + 4 * 2`) and get immediate feedback with the result. 
-- **Challenge**: 
+- **Description**: Implement a REPL where the user can input mathematical expressions (e.g., `3 + 4 * 2`) and get immediate feedback with the result.
+- **Challenge**:
   - Add support for parentheses and basic operator precedence.
   - Implement error handling for invalid syntax or division by zero.
 
@@ -41,7 +42,7 @@ To deeply understand Imperative, Structured, and Procedural Programming, here ar
 
 - **Objective**: Create a basic Unix-like shell that can execute system commands.
 - **Description**: Implement a shell that takes user input, parses it, and executes the corresponding command (e.g., `ls`, `pwd`, `echo`).
-- **Challenge**: 
+- **Challenge**:
   - Add support for piping commands (`ls | grep txt`).
   - Implement redirection to handle output to files (`echo "Hello" > file.txt`).
   - Add signal handling for terminating processes (`Ctrl+C`).
