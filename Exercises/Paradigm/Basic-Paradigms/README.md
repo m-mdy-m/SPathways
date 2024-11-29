@@ -25,7 +25,7 @@ To deeply understand Imperative, Structured, and Procedural Programming, here ar
    - Build a terminal-based snake game.
    - **Challenge:** Implement levels, save high scores, and make the game more interactive with dynamic screen sizes.
 
-3. **Memory Allocator**
+3. **[Memory Allocator](https://github.com/medishen/pick.git)**
 
    - Implement your version of `malloc` and `free` to understand memory management.
    - **Challenge:** Add error detection, alignment, and performance optimization.
